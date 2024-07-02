@@ -5,5 +5,5 @@ This Python Jupyter Notebook (.ipynb) file demonstrates the designed framework t
 
 **Project Interface:**
 
-Download the "Football Match Prediction_Project Interface.zip" folder to run the Football Match Prediction System and predict the football match outcome!
+Download the 'Football Match Prediction_Project Interface.zip' folder to run the Football Match Prediction System and predict football match outcomes using Main.py
  
