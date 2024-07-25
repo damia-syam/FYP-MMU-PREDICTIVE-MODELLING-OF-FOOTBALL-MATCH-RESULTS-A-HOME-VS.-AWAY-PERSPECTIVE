@@ -6,8 +6,11 @@ Predictive Modelling of Football Match Results: A Home vs. Away Perspective
 ****Project Information****
 
 Student Name: Nur Damia Binti Rohisyam
+
 Student ID: 1211304435
+
 Project ID: 2689
+
 Type: Research-based Project
 
 ****Project File****
@@ -31,7 +34,9 @@ Open the file 1211304435_2689_Final Year Project.ipynb to view the source code a
 2. Project Interface
 
 i. Open the folder Football Match Prediction_Project Interface in Visual Studio Code (VS Code).
+
 ii. Locate and open Main.py.
+
 iii. Run the Main.py script to launch the interface, which demonstrates the football match prediction using the Random Forest model.
 
  
