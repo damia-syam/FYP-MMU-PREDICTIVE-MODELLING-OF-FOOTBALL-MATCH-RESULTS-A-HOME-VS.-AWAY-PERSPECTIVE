@@ -1,0 +1,48 @@
+****Project Title****
+
+Predictive Modelling of Football Match Results: A Home vs. Away Perspective
+
+****Project Information****
+
+Student Name: Nur Damia Binti Rohisyam
+Student ID: 1211304435
+Project ID: 2689
+Type: Research-based Project
+
+****Project File****
+
+1. Source Code Notebook 
+
+Filename: 1211304435_2689_Source Code
+
+Description: This Jupyter Notebook contains the complete framework for predicting football match outcomes in the English Premier League (EPL) using machine learning algorithms. It covers data pre-processing, feature selection, and feature engineering across 30 seasons (1993/1994 to 2022/2023). The notebook implements Support Vector Machine, Logistic Regression, and Random Forest algorithms. After training, the models are evaluated on separate testing data to measure their performance.
+
+2. Project Interface File:
+
+Filename: 1211304435_2689_Project Interface
+
+Description: This folder contains the interface to demonstrate predictions using the Random Forest model, identified as the best performing model.
+
+***How to Use***
+
+1. Source Code Notebook
+
+Open the file 1211304435_2689_Final Year Project.ipynb to view the source code and follow along with the project steps.
+
+2. Project Interface
+
+i. Open the folder Football Match Prediction_Project Interface in Visual Studio Code (VS Code).
+ii. Locate and open Main.py.
+iii. Run the Main.py script to launch the interface, which demonstrates the football match prediction using the Random Forest model.
+
+****Alternative Access****
+
+If you encounter any issues accessing the files, you can view the project on GitHub:
+
+https://github.com/damia-syam/FYP-MMU-PREDICTIVE-MODELLING-OF-FOOTBALL-MATCH-RESULTS-A-HOME-VS.-AWAY-PERSPECTIVE
+
+****Contact Information****
+
+For any issues or inquiries, please contact:
+
+Email: 12111304435@student.mmu.edu.my
